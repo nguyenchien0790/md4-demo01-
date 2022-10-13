@@ -11,7 +11,8 @@
     <title>Title</title>
 </head>
 <body>
-<h1> welcome springgggggggggggggggggggggggggggggggggggg : ${name}</h1>
+
+<h1> welcome springgggggggggggggggggggggggggggggggggggg : ${namei}</h1>
 
 </body>
 </html>
